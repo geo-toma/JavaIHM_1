@@ -44,7 +44,6 @@ public class Fenetre extends JFrame {
 		this.setTitle("modifier");
 		// String title = lookAndFeel.split("\\.")[lookAndFeel.split("\\.").length - 1];
 		// this.setTitle("Nom du look and feel : "+title);
-
 		buldTree();
 		// initCellRenderer();
 		// listRoot();
